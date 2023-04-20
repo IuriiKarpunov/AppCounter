@@ -85,6 +85,7 @@
 				4AF1B2B329F15B9500B9AF70 /* Products */,
 			);
 			sourceTree = "<group>";
+			usesTabs = 0;
 		};
 		4AF1B2B329F15B9500B9AF70 /* Products */ = {
 			isa = PBXGroup;
